@@ -12,7 +12,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
 # Contents
 - [Quantity Imbalance](#quantity-imbalance)
   - [Over-Sampling](#over-sampling)
-  - [Loss function engineering](#loss-function-engineering)
+  - [Loss function Engineering](#loss-function-engineering)
   - [Knowledge Distillation Technique](#knowledge-distillation-technique)
   - [Self-Supervised Learning](#self-supervised-learning)
   - [Reinforcement Learning](#reinforcement-learning)
