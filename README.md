@@ -31,6 +31,12 @@ If you have any relevant paper or codes to update the list, please pull a reques
 # Papers
 ## Quantity Imbalance 
 ### Over-Sampling 
+
+**UNREAL: Unlabeled Nodes Retrieval and Labeling for Heavily-imbalanced Node Classification**  
+> *Joonhyung Park<sup>1</sup>, Jaeyun Song<sup>1</sup>, Eunho Yang* \
+> Openreview 2022. [[Paper](https://arxiv.org/abs/2303.10371)]\
+> 30 Sep 2022
+
 **GraphENS: Neighbor-aware ego network synthesis for class-imbalanced node classification**  
 > *Joonhyung Park<sup>1</sup>, Jaeyun Song<sup>1</sup>, Eunho Yang* \
 > ICLR 2022. [[Paper](https://openreview.net/forum?id=MXEl7i-iru)] [[Github](https://github.com/JoonHyung-Park/GraphENS)]\
