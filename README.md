@@ -163,16 +163,6 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > 06 Oct 2022
 
 
-## Size Imbalance 
-
-**On Size-Oriented Long-Tailed Graph Classification of Graph Neural Networks** 
-> *Zemin Liu, Qiheng Mao, Chenghao Liu, Yuan Fang, Jianling Sun* \
-> WWW 2022. [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512197)] [[Github](https://github.com/shuaiOKshuai/SOLT-GNN)]\
-> 25 Apr 2022
-
-
-
- 
 
 
 
@@ -195,6 +185,22 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > NeurIPS 2021. [[Paper](https://arxiv.org/abs/2110.04099)] [[Github](https://github.com/victorchen96/ReNode)] \
 > 08 Oct 2021
 
+
+
+
+
+## Graph Classification
+
+**Imbalanced Graph Classification via Graph-of-Graph Neural Networks** 
+> *Yu Wang, Yuying Zhao, Neil Shah, Tyler Derr* \
+> CIKM 2022.  [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557356)] [[Github](https://github.com/YuWVandy/G2GNN)]\
+> 17 Oct 2022
+
+
+**On Size-Oriented Long-Tailed Graph Classification of Graph Neural Networks** 
+> *Zemin Liu, Qiheng Mao, Chenghao Liu, Yuan Fang, Jianling Sun* \
+> WWW 2022. [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512197)] [[Github](https://github.com/shuaiOKshuai/SOLT-GNN)]\
+> 25 Apr 2022
 
 
 
