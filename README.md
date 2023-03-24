@@ -95,6 +95,13 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 ### Self-Supervised Learning
 
+
+**Co-Modality Graph Contrastive Learning for Imbalanced Node Classification** 
+> *Yiyue Qian, Chunhui Zhang, Yiming Zhang, Qianlong Wen, Yanfang Ye, Chuxu Zhang* \
+> NeurIPS 2022. [[Paper](https://openreview.net/forum?id=f_kvHrM4Q0)] [[Github](https://github.com/graphprojects/CM-GCL)] \
+> 01 Nov 2022
+
+
 **Distance-wise Prototypical Graph Neural Network in Node Imbalance Classification** 
 > *Yu Wang, Charu Aggarwal, Tyler Derr* \
 > arXiv 2021. [[Paper](https://arxiv.org/abs/2110.12035)] [[Github](https://github.com/YuWVandy/DPGNN)] \
