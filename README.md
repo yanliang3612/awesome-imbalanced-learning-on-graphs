@@ -112,6 +112,11 @@ If you have any relevant paper or codes to update the list, please pull a reques
 ## Degree Imbalance
 ### Semi-Supervised Learning
 
+**Toward Degree Bias in Embedding-Based Knowledge Graph Completion** 
+> *Harry Shomer, Wei Jin, Wentao Wang, Jiliang Tang* \
+> WWW 2023. [[Paper](https://arxiv.org/abs/2302.05044)]\
+> 10 Feb 2023
+
 **ResNorm: Tackling Long-tailed Degree Distribution Issue in Graph Neural Networks via Normalization** 
 > *Langzhang Liang, Zenglin Xu, Zixing Song, Irwin King, Jieping Ye* \
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2206.08181)]\
@@ -153,6 +158,12 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > *Xianfeng Tang, Huaxiu Yao, Yiwei Sun, Yiqi Wang, Jiliang Tang, Charu Aggarwal, Prasenjit Mitra, Suhang Wang* \
 > CIKM 2020. [[Paper](https://arxiv.org/abs/2006.15643)]\
 > 28 Jun 2020
+
+
+
+
+
+
 
 
 ### Unsupervised Learning
