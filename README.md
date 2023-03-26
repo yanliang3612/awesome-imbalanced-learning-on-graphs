@@ -19,8 +19,8 @@ If you have any relevant paper or codes to update the list, please pull a reques
 - [Degree Imbalance](#degree-imbalance)
   - [Semi-Supervised Learning](#semi-supervised-learning)
   - [Unsupervised Learning](#unsupervised-learning)
-- [Size Imbalance](#size-imbalance)
 - [Topology Imbalance](#topology-imbalance)
+- [Graph Classification](#graph classification)
 
 
 
