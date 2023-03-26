@@ -20,7 +20,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
   - [Semi-Supervised Learning](#semi-supervised-learning)
   - [Unsupervised Learning](#unsupervised-learning)
 - [Topology Imbalance](#topology-imbalance)
-- [Graph Classification](#graph classification)
+- [Graph Classification](#graph-classification)
 
 
 
