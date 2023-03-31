@@ -21,6 +21,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
   - [Unsupervised Learning](#unsupervised-learning)
 - [Topology Imbalance](#topology-imbalance)
 - [Graph Classification](#graph-classification)
+- [Multi-modal Learning](# multi-modal-learning)
 
 
 
@@ -221,8 +222,12 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > 25 Apr 2022
 
 
+## Multi-modal Learning
 
-
+**Co-Modality Graph Contrastive Learning for Imbalanced Node Classification** 
+> *Yiyue Qian, Chunhui Zhang, Yiming Zhang, Qianlong Wen, Yanfang Ye, Chuxu Zhang* \
+> NeurIPS 2022.  [[Paper](https://openreview.net/forum?id=f_kvHrM4Q0)] [[Github](https://github.com/graphprojects/CM-GCL)]\
+> 15 Sept 2022
 
 
 
