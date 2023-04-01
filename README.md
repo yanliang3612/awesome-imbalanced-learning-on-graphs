@@ -34,7 +34,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
 ### Over-Sampling 
 
 **UNREAL: Unlabeled Nodes Retrieval and Labeling for Heavily-imbalanced Node Classification**  
-> *Liang Yan<sup>1</sup>, Shengzhong Zhang<sup>1</sup>, Bisheng Li, Min Zhou, Zengfeng Huang* \
+> *Liang Yan, Shengzhong Zhang, Bisheng Li, Min Zhou, Zengfeng Huang* \
 > Openreview 2022. [[Paper](https://arxiv.org/abs/2303.10371)]\
 > 30 Sep 2022
 
