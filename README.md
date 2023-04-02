@@ -21,7 +21,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
   - [Unsupervised Learning](#unsupervised-learning)
 - [Topology Imbalance](#topology-imbalance)
 - [Graph Classification](#graph-classification)
-- [Multi-modal Learning](# multi-modal-learning)
+- [Multi-modal Learning](#multi-modal-learning)
 
 
 
