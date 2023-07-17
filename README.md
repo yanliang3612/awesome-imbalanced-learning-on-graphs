@@ -31,9 +31,25 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 # Papers
 ## Quantity Imbalance 
-### Over-Sampling 
+### Over-Sampling
 
-**UNREAL: Unlabeled Nodes Retrieval and Labeling for Heavily-imbalanced Node Classification**  
+**INS-GNN: Improving graph imbalance learning with self-supervision**  
+> *Xin Juan, Fengfeng Zhou, Wentao Wang, Wei Jin, Jiliang Tang, Xin Wang* \
+> Information Sciences. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523005042)]\
+> 30 Aug 2023
+
+**GraphSHA: Synthesizing Harder Samples for Class-Imbalanced Node Classification**  
+> *Wen-Zhi Li, Chang-Dong Wang, Hui Xiong, Jian-Huang Lai* \
+> KDD 2023. [[Paper](https://arxiv.org/abs/2306.09612)]\
+> 16 Jun 2023
+
+
+**GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification**  
+> *Mengting Zhou, Zhiguo Gong* \
+> AAAI 2023. [[Paper](https://arxiv.org/abs/2302.12814)]\
+> 24 Feb 2023
+
+**UNREAL: Unlabled Nodes Retrieval and Labeling for Heavily-imbalanced Node Classification**  
 > *Divin Yan, Shengzhong Zhang, Bisheng Li, Min Zhou, Zengfeng Huang* \
 > Openreview 2022. [[Paper](https://arxiv.org/abs/2303.10371)]\
 > 30 Sep 2022
@@ -66,6 +82,12 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 
 ### Loss Function Engineering
+
+**Hyperbolic Geometric Graph Representation Learning for Hierarchy-imbalance Node Classification**   
+> *Xingcheng Fu, Yuecen Wei, Qingyun Sun, Haonan Yuan, Jia Wu, Hao Peng, Jianxin Li* \
+> WWW 2023. [[Paper](https://arxiv.org/abs/2304.05059)] \
+> 11 Apr 2023
+
 
 **TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification**   
 > *Jaeyun Song<sup>1</sup>, Joonhyung Park<sup>1</sup>, Eunho Yang* \
@@ -187,6 +209,11 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 
 ## Topology Imbalance
+
+**Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing** 
+> *Qingyun Sun, Jianxin Li, Haonan Yuan, Xingcheng Fu, Hao Peng, Cheng Ji, Qian Li, Philip S. Yu*\
+> CIKM 2022. [[Paper](https://arxiv.org/abs/2208.08302)]\
+> 17 Aug 2022
 
 **TopoImb: Toward Topology-level Imbalance in Learning from Graphs** 
 > *Tianxiang Zhao, Dongsheng Luo, Xiang Zhang, Suhang Wang*\
