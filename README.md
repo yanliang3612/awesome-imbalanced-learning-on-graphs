@@ -88,6 +88,11 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > WWW 2023. [[Paper](https://arxiv.org/abs/2304.05059)] \
 > 11 Apr 2023
 
+**Minority-Weighted Graph Neural Network for Imbalanced Node Classification in Social Networks of Internet of People**   
+> *Kefan Wang, Jing An, Mengchu Zhou, Zhe Shi, Xudong Shi, Qi Kang* \
+> IEEE Internet of Things Journal. [[Paper](https://ieeexplore.ieee.org/abstract/document/9875203)] \
+> 01 Jun 2022
+
 
 **TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification**   
 > *Jaeyun Song<sup>1</sup>, Joonhyung Park<sup>1</sup>, Eunho Yang* \
@@ -209,6 +214,10 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 
 ## Topology Imbalance
+**Topology Uncertainty Modeling For Imbalanced Node Classification on Graphs** 
+> *Jiayi Gao, Jiaxing Li, Ke Zhang, Youyong Kong*\
+> ICASSP 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10094813)]\
+> 05 May 2023
 
 **Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing** 
 > *Qingyun Sun, Jianxin Li, Haonan Yuan, Xingcheng Fu, Hao Peng, Cheng Ji, Qian Li, Philip S. Yu*\
