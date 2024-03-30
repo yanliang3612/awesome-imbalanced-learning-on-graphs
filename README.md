@@ -6,7 +6,7 @@ This repository contains a collection of resources and papers on ***Imbalance Le
 
 If you have any relevant paper or codes to update the list, please pull a request or report an issue. 
 
-![image](image/im.png)
+![image](image/dalle3.png)
 
 
 # Contents
