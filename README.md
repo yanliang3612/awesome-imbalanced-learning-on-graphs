@@ -282,6 +282,11 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > WWW 2022. [[paper](https://dl.acm.org/doi/10.1145/3485447.3512197)] [[code](https://github.com/shuaiOKshuai/SOLT-GNN)]\
 > 25 Apr 2022
 
+**RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification** 
+> *Zhengyang Mao, Wei Ju, Yifang Qin, Xiao Luo, Ming Zhang* \
+> ACM MM 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612360)]\
+> 4 Aug 2023
+
 
 ## Multi-modal Learning
 
