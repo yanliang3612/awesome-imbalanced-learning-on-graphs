@@ -10,6 +10,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 
 # Contents
+- [Survery](#survery)
 - [Quantity Imbalance](#quantity-imbalance)
   - [Data-Augmentation](#data-augmentation)
   - [Over-Sampling](#over-sampling)
