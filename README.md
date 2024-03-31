@@ -11,6 +11,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 # Contents
 - [Quantity Imbalance](#quantity-imbalance)
+  - [Data-Augmentation](#data-augmentation)
   - [Over-Sampling](#over-sampling)
   - [Loss function Engineering](#loss-function-engineering)
   - [Knowledge Distillation Technique](#knowledge-distillation-technique)
