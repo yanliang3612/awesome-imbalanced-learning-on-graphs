@@ -69,6 +69,12 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 ### Over-Sampling
 
+**Semantic-aware Node Synthesis for Imbalanced Heterogeneous Information Networks**  
+> *Xinyi Gao, Wentao Zhang, Tong Chen, Junliang Yu, Hung Quoc Viet Nguyen, Hongzhi Yin* \
+> CIKM 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615055)]\
+> 27 Feb 2023 
+
+
 **INS-GNN: Improving graph imbalance learning with self-supervision**  
 > *Xin Juan, Fengfeng Zhou, Wentao Wang, Wei Jin, Jiliang Tang, Xin Wang* \
 > Information Sciences. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523005042)]\
