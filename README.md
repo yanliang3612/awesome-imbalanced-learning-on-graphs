@@ -18,6 +18,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
   - [Knowledge Distillation Technique](#knowledge-distillation-technique)
   - [Self-Supervised Learning](#self-supervised-learning)
   - [Reinforcement Learning](#reinforcement-learning)
+- [Community Bias](#community-bias)
 - [Degree Imbalance](#degree-imbalance)
   - [Semi-Supervised Learning](#semi-supervised-learning)
   - [Unsupervised Learning](#unsupervised-learning)
@@ -168,6 +169,11 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > 25 Apr 2022
 
 
+## Community Bias
+**Understanding Community Bias Amplification in Graph Representation Learning** 
+> *Shengzhong Zhang, Wenjie Yang, Yimin Zhang, Hongwei Zhang, Divin Yan, Zengfeng Huang* \
+> Arxiv 2023. [[paper](https://arxiv.org/abs/2312.04883)]\
+> 8 Dec 2023
 
 ## Degree Imbalance
 ### Semi-Supervised Learning
