@@ -32,6 +32,23 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 
 # Papers
+## Survery
+**A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges**  
+> *Wei Ju, Siyu Yi, Yifan Wang, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Xiao Luo, Philip S. Yu, Ming Zhang* \
+> Arxiv 2024. [[paper](https://arxiv.org/abs/2403.04468)]\
+> 7 Mar 2024
+
+**A survey of imbalanced learning on graphs: Problems, techniques, and future directions**  
+> *A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions* \
+> Arxiv 2023. [[paper](https://arxiv.org/abs/2308.13821)]\
+> 26 Aug 2023
+
+**Class-imbalanced learning on graphs: A survey**  
+> *Yihong Ma, Yijun Tian, Nuno Moniz, Nitesh V. Chawla* \
+> Arxiv 2023. [[paper](https://arxiv.org/abs/2304.04300)]\
+> 9 Apr 2023
+
+
 ## Quantity Imbalance 
 ### Data Augmentation
 **Rethinking Semi-Supervised Imbalanced Node Classification from Bias-Variance Decomposition**  
