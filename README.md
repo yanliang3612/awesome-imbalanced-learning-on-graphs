@@ -52,10 +52,20 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 ## Quantity Imbalance 
 ### Data Augmentation
+
+**Topological Augmentation for Class-Imbalanced Node Classification**  
+> *Zhining Liu, Zhichen Zeng, Ruizhong Qiu, Hyunsik Yoo, David Zhou, Zhe Xu, Yada Zhu, Kommy Weldemariam, Jingrui He, Hanghang Tong* \
+> Arxiv 2023. [[paper](https://arxiv.org/abs/2308.14181)]\
+> 27 Aug 2023
+
+
+
 **Rethinking Semi-Supervised Imbalanced Node Classification from Bias-Variance Decomposition**  
 > *Divin Yan, Gengchen Wei, Chen Yang, Shengzhong Zhang, Zengfeng Huang* \
 > NeurIPS 2023. [[paper](https://arxiv.org/abs/2310.18765)] [[code](https://github.com/yanliang3612/ReVar)]\
 > 21 Sep 2023
+
+
 
 ### Over-Sampling
 
