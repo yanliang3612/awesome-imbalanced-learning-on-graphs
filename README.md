@@ -35,7 +35,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
 ### Data Augmentation
 **Rethinking Semi-Supervised Imbalanced Node Classification from Bias-Variance Decomposition**  
 > *Divin Yan, Gengchen Wei, Chen Yang, Shengzhong Zhang, Zengfeng Huang* \
-> NeurIPS 2023. [[Paper](https://arxiv.org/abs/2310.18765)] [[Github](https://github.com/yanliang3612/ReVar)]\
+> NeurIPS 2023. [[paper](https://arxiv.org/abs/2310.18765)] [[code](https://github.com/yanliang3612/ReVar)]\
 > 21 Sep 2023
 
 ### Over-Sampling
