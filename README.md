@@ -185,13 +185,14 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > WWW 2022. [[paper](https://dl.acm.org/doi/10.1145/3485447.3512178)] \
 > 25 Apr 2022
 
-
+---
 ## Community Bias
 **Understanding Community Bias Amplification in Graph Representation Learning** 
 > *Shengzhong Zhang, Wenjie Yang, Yimin Zhang, Hongwei Zhang, Divin Yan, Zengfeng Huang* \
 > Arxiv 2023. [[paper](https://arxiv.org/abs/2312.04883)]\
 > 8 Dec 2023
 
+---
 ## Degree Imbalance
 ### Semi-Supervised Learning
 
@@ -256,7 +257,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > NeurIPS 2022. [[paper](https://arxiv.org/abs/2210.03011)] [[code](https://github.com/BUPT-GAMMA/Uncovering-the-Structural-Fairness-in-Graph-Contrastive-Learning)]\
 > 06 Oct 2022
 
-
+---
 
 
 
@@ -289,7 +290,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > 08 Oct 2021
 
 
-
+---
 
 
 ## Graph Classification
@@ -310,14 +311,14 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > ACM MM 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612360)]\
 > 4 Aug 2023
 
-
+---
 ## Multi-modal Learning
 
 **Co-Modality Graph Contrastive Learning for Imbalanced Node Classification** 
 > *Yiyue Qian, Chunhui Zhang, Yiming Zhang, Qianlong Wen, Yanfang Ye, Chuxu Zhang* \
 > NeurIPS 2022.  [[paper](https://openreview.net/forum?id=f_kvHrM4Q0)] [[code](https://github.com/graphprojects/CM-GCL)]\
 > 15 Sept 2022
-
+---
 
 # Contact
 - [Divin Yan (yanliangfdu@gmail.com)](https://divinyan.com).
