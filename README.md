@@ -25,6 +25,7 @@ If you have any relevant paper or codes to update the list, please pull a reques
   - [Unsupervised Learning](#unsupervised-learning)
 - [Topology Imbalance](#topology-imbalance)
 - [Graph Classification](#graph-classification)
+- [Graph Size Imbalance](#graph_size_imbalance)
 - [Multi-modal Learning](#multi-modal-learning)
 
 
@@ -300,16 +301,20 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > CIKM 2022.  [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557356)] [[code](https://github.com/YuWVandy/G2GNN)]\
 > 17 Oct 2022
 
+**RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification** 
+> *Zhengyang Mao, Wei Ju, Yifang Qin, Xiao Luo, Ming Zhang* \
+> ACM MM 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612360)]\
+> 4 Aug 2023
 
+
+---
+## Graph Size Imbalance
 **On Size-Oriented Long-Tailed Graph Classification of Graph Neural Networks** 
 > *Zemin Liu, Qiheng Mao, Chenghao Liu, Yuan Fang, Jianling Sun* \
 > WWW 2022. [[paper](https://dl.acm.org/doi/10.1145/3485447.3512197)] [[code](https://github.com/shuaiOKshuai/SOLT-GNN)]\
 > 25 Apr 2022
 
-**RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification** 
-> *Zhengyang Mao, Wei Ju, Yifang Qin, Xiao Luo, Ming Zhang* \
-> ACM MM 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612360)]\
-> 4 Aug 2023
+
 
 ---
 ## Multi-modal Learning
