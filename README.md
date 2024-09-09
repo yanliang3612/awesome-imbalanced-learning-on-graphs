@@ -306,6 +306,11 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > ACM MM 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612360)]\
 > 4 Aug 2023
 
+**When Imbalance Meets Imbalance: Structure-driven Learning for Imbalanced Graph Classification** 
+> *Wei Xu, Pengkun Wang, Zhe Zhao, Binwu Wang, Xu Wang, Yang Wang* \
+> WWW 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645629?casa_token=iB1v2xn6SocAAAAA:t4nztbBGXrg8t24xyHcgMxgo64MRe7kqkbTaSD_OlYFvFaCP9oNbrlHRkdpIrEWZ9MsMhQgZOdLmLGQ)]\
+> 13 May 2024
+
 
 ---
 ## Graph Size Imbalance
