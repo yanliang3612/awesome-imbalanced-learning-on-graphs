@@ -320,6 +320,16 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > 25 Apr 2022
 
 
+**On Size-Oriented Long-Tailed Graph Classification of Graph Neural Networks** 
+> *Zemin Liu, Qiheng Mao, Chenghao Liu, Yuan Fang, Jianling Sun* \
+> WWW 2022. [[paper](https://dl.acm.org/doi/10.1145/3485447.3512197)] [[code](https://github.com/shuaiOKshuai/SOLT-GNN)]\
+> 25 Apr 2022
+
+**Graph Size-imbalanced Learning with Energy-guided Structural Smoothing**
+> *Jiawen Qin, Pengfeng Huang, Qingyun Sun, Cheng Ji, Xingcheng Fu, Jianxin Li* \
+> WSDM 2025. [[paper](https://arxiv.org/abs/2412.17591)] \
+> 23 Dec 2024
+
 
 ---
 ## Multi-modal Learning
@@ -331,4 +341,4 @@ If you have any relevant paper or codes to update the list, please pull a reques
 ---
 
 # Contact
-- [Divin Yan (yanliangfdu@gmail.com)](https://divinyan.com).
+- [Liang Yan (yanliangfdu@gmail.com)](https://divinyan.com).
