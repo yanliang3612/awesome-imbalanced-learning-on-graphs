@@ -71,6 +71,11 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 ### Over-Sampling
 
+**Iceberg: Debiased self-training for class-imbalanced node classification**
+> *Zhixun Li, Dingshuo Chen, Tong Zhao, Daixin Wang, Hongrui Liu, Zhiqiang Zhang, Jun Zhou, Jeffrey Xu Yu* \
+> WWW 2025. [[paper](https://arxiv.org/abs/2502.06280)] [[code](https://github.com/ZhixunLEE/IceBerg)]\
+> 10 Feb 2025
+
 **Semantic-aware Node Synthesis for Imbalanced Heterogeneous Information Networks**  
 > *Xinyi Gao, Wentao Zhang, Tong Chen, Junliang Yu, Hung Quoc Viet Nguyen, Hongzhi Yin* \
 > CIKM 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615055)]\
@@ -126,6 +131,12 @@ If you have any relevant paper or codes to update the list, please pull a reques
 
 
 ### Loss Function Engineering
+
+**NodeImport: Imbalanced Node Classification with Node Importance Assessment**
+> *Nan Chen, Zemin Liu, Bryan Hooi, Bingsheng He, Jun Hu, Jia Chen* \
+> KDD 2025. [[paper](https://dl.acm.org/doi/10.1145/3690624.3709215)] [[code](https://github.com/NanChanNN/NodeImport)]\
+> 20 July 2025
+
 
 **Hyperbolic Geometric Graph Representation Learning for Hierarchy-imbalance Node Classification**   
 > *Xingcheng Fu, Yuecen Wei, Qingyun Sun, Haonan Yuan, Jia Wu, Hao Peng, Jianxin Li* \
