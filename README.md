@@ -2,6 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![BibTeX](https://img.shields.io/badge/Cite-BibTeX-blue.svg)](#citation)
 
 > A curated collection of surveys, papers, and code for imbalanced learning on graphs.
 
@@ -31,6 +32,7 @@ list organizes recent work by imbalance type and learning strategy.
   - [Graph classification](#graph-classification)
   - [Graph size imbalance](#graph-size-imbalance)
 - [Multimodal learning](#multimodal-learning)
+- [Citation](#citation)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -304,6 +306,20 @@ list organizes recent work by imbalance type and learning strategy.
 > *Yiyue Qian, Chunhui Zhang, Yiming Zhang, Qianlong Wen, Yanfang Ye, Chuxu Zhang* \
 > NeurIPS 2022. [[paper](https://openreview.net/forum?id=f_kvHrM4Q0)] [[code](https://github.com/graphprojects/CM-GCL)]\
 > 15 Sept 2022
+
+## Citation
+
+If you find this repository useful, please cite it as follows:
+
+```bibtex
+@misc{yan2023awesomeimbalancedgraphs,
+  author       = {Liang Yan},
+  title        = {Awesome Imbalanced Learning on Graphs},
+  year         = {2023},
+  howpublished = {\url{https://github.com/yanliang3612/awesome-imbalanced-learning-on-graphs}},
+  note         = {GitHub repository}
+}
+```
 
 ## Contributing
 
