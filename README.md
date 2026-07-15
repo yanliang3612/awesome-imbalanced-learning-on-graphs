@@ -10,9 +10,9 @@ Imbalanced graph learning studies how to learn effectively when graph data is
 skewed across classes, node degrees, topology, communities, or graph sizes. This
 list organizes recent work by imbalance type and learning strategy.
 
-![image](image/dalle3-2.png)
-
-<sub>Illustration generated with [DALL·E 3](https://openai.com/dall-e-3).</sub>
+<p align="center">
+  <img src="image/imbalanced-graphs-logo.png" alt="Imbalanced Learning on Graphs logo" width="760">
+</p>
 
 ## Contents
 
