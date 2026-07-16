@@ -1,8 +1,10 @@
 # Awesome Imbalanced Learning on Graphs
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![BibTeX](https://img.shields.io/badge/Cite-BibTeX-blue.svg)](#citation)
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
+  <a href="#citation"><img src="https://img.shields.io/badge/Cite-BibTeX-blue.svg" alt="Cite with BibTeX"></a>
+</p>
 
 > A curated collection of surveys, papers, and code for imbalanced learning on graphs.
 
