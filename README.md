@@ -30,9 +30,11 @@ list organizes recent work by imbalance type and learning strategy.
   - [Community bias](#community-bias)
   - [Degree imbalance](#degree-imbalance)
   - [Topology imbalance](#topology-imbalance)
+- [Edge-level imbalance](#edge-level-imbalance)
 - [Graph-level imbalance](#graph-level-imbalance)
   - [Graph classification](#graph-classification)
   - [Graph size imbalance](#graph-size-imbalance)
+- [Federated graph learning](#federated-graph-learning)
 - [Multimodal learning](#multimodal-learning)
 - [Citation](#citation)
 - [Contributing](#contributing)
@@ -71,20 +73,50 @@ list organizes recent work by imbalance type and learning strategy.
 > Pattern Recognition 2026. [[paper](https://doi.org/10.1016/j.patcog.2025.112626)]\
 > Apr 2026
 
+**GIER: Addressing Class Imbalance in GNNs Through Experience Replay**
+> *Liu Yang, Chuyao Liu, Zidong Wang, Tingxuan Chen, Mengni Chen, Hongyu Zhang* \
+> AAAI 2026. [[paper](https://doi.org/10.1609/aaai.v40i19.38646)]\
+> 14 Mar 2026
+
 **GraphSB: Boosting Imbalanced Node Classification on Graphs through Structural Balance**
 > *Zhixiao Wang, Chaofan Zhu, Qihan Feng, Jian Zhang, Xiaobin Rui, Philip S. Yu* \
 > arXiv 2026. [[paper](https://arxiv.org/abs/2601.19352)]\
 > 27 Jan 2026
+
+**Graph Neural Network with Generative Adversarial Training for Node Classification on Class Imbalanced Data**
+> *Xiaoqi Zhou, Peixin Shi* \
+> Engineering Applications of Artificial Intelligence 2025. [[paper](https://doi.org/10.1016/j.engappai.2025.112264)]\
+> 12 Dec 2025
+
+**GraphIAM: Two-Stage Algorithm for Improving Class-Imbalanced Node Classification on Attribute-Missing Graphs**
+> *Riting Xia, Chunxu Zhang, Xueyan Liu, Anchen Li, Yan Zhang* \
+> CIKM 2025. [[paper](https://doi.org/10.1145/3746252.3761086)]\
+> 10 Nov 2025
 
 **GraphIFE: Rethinking Graph Imbalance Node Classification via Invariant Learning**
 > *Fanlong Zeng, Wensheng Gan, Philip S. Yu* \
 > arXiv 2025. [[paper](https://arxiv.org/abs/2509.23616)]\
 > 28 Sep 2025
 
+**When Noisy Labels Meet Class Imbalance on Graphs: A Graph Augmentation Method with LLM and Pseudo Label**
+> *Riting Xia, Rucong Wang, Yulin Liu, Anchen Li, Xueyan Liu, Yan Zhang* \
+> arXiv 2025. [[paper](https://arxiv.org/abs/2507.18153)]\
+> 24 Jul 2025
+
 **Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation**
 > *Xin Ma, Yifan Wang, Siyu Yi, Wei Ju, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv* \
 > NeurIPS 2025. [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/455b24e256981fb97f7a650993c35c98-Abstract-Conference.html)] [[code](https://github.com/maxin88scu/ImGDA)]\
 > 2025
+
+**Graffin: Stand for Tails in Imbalanced Node Classification**
+> *Xiaorui Qi, Yanlong Wen, Xiaojie Yuan* \
+> arXiv 2024. [[paper](https://arxiv.org/abs/2409.05339)]\
+> 9 Sep 2024
+
+**HyperSMOTE: A Hypergraph-based Oversampling Approach for Imbalanced Node Classifications**
+> *Ziming Zhao, Tiehua Zhang, Zijian Yi, Zhishu Shen* \
+> arXiv 2024. [[paper](https://arxiv.org/abs/2409.05402)]\
+> 9 Sep 2024
 
 **Class-Imbalanced Graph Learning without Class Rebalancing**
 > *Zhining Liu, Ruizhong Qiu, Zhichen Zeng, Hyunsik Yoo, David Zhou, Zhe Xu, Yada Zhu, Kommy Weldemariam, Jingrui He, Hanghang Tong* \
@@ -123,6 +155,11 @@ list organizes recent work by imbalance type and learning strategy.
 > Pattern Recognition 2026. [[paper](https://doi.org/10.1016/j.patcog.2025.112749)]\
 > Apr 2026
 
+**Pure Node Selection for Imbalanced Graph Node Classification**
+> *Fanlong Zeng, Wensheng Gan, Jiayang Wu, Philip S. Yu* \
+> Neural Networks 2026. [[paper](https://doi.org/10.1016/j.neunet.2025.108315)] [[preprint](https://arxiv.org/abs/2509.23662)] [[code](https://github.com/flzeng1/PNS)]\
+> Apr 2026
+
 **A Multi-View Graph Neural Network with Subgraph Variational Autoencoder for Class-Imbalanced Node Classification**
 > *Longqing Du, Zhirong Huang, Jiecheng Li, Guixian Zhang, Debo Cheng, Guangquan Lu, Shichao Zhang* \
 > Knowledge-Based Systems 2026. [[paper](https://doi.org/10.1016/j.knosys.2025.115081)]\
@@ -137,6 +174,11 @@ list organizes recent work by imbalance type and learning strategy.
 > *Zhixun Li, Dingshuo Chen, Tong Zhao, Daixin Wang, Hongrui Liu, Zhiqiang Zhang, Jun Zhou, Jeffrey Xu Yu* \
 > WWW 2025. [[paper](https://arxiv.org/abs/2502.06280)] [[code](https://github.com/ZhixunLEE/IceBerg)]\
 > 10 Feb 2025
+
+**UPL: Uncertainty-aware Pseudo-labeling for Imbalance Transductive Node Classification**
+> *Mohammad T. Teimuri, Zahra Dehghanian, Gholamali Aminian, Hamid R. Rabiee* \
+> arXiv 2025. [[paper](https://arxiv.org/abs/2502.00716)]\
+> 2 Feb 2025
 
 **Overcoming Class Imbalance: Unified GNN Learning with Structural and Semantic Connectivity Representations**
 > *Abdullah Alchihabi, Hao Yan, Yuhong Guo* \
@@ -210,10 +252,25 @@ list organizes recent work by imbalance type and learning strategy.
 
 #### Loss function engineering
 
+**Enhancing Imbalanced Node Classification via Curriculum-Guided Feature Learning and Three-Stage Attention Network**
+> *Abdul Joseph Fofanah, Lian Wen, David Chen, Shaoyang Zhang* \
+> arXiv 2026. [[paper](https://arxiv.org/abs/2602.03808)]\
+> 3 Feb 2026
+
+**PIMPC-GNN: Physics-Informed Multi-Phase Consensus Learning for Enhancing Imbalanced Node Classification in Graph Neural Networks**
+> *Abdul Joseph Fofanah, Lian Wen, David Chen* \
+> arXiv 2026. [[paper](https://arxiv.org/abs/2602.01920)] [[code](https://github.com/afofanah/PIMPC-GNN)]\
+> 2 Feb 2026
+
 **NodeImport: Imbalanced Node Classification with Node Importance Assessment**
 > *Nan Chen, Zemin Liu, Bryan Hooi, Bingsheng He, Jun Hu, Jia Chen* \
 > KDD 2025. [[paper](https://dl.acm.org/doi/10.1145/3690624.3709215)] [[code](https://github.com/NanChanNN/NodeImport)]\
 > 20 July 2025
+
+**Meta-GCN: A Dynamically Weighted Loss Minimization Method for Dealing with the Data Imbalance in Graph Neural Networks**
+> *Mahdi Mohammadizadeh, Arash Mozhdehi, Yani Ioannou, Xin Wang* \
+> arXiv 2024. [[paper](https://arxiv.org/abs/2406.17073)]\
+> 24 Jun 2024
 
 **REFUEL: Rule Extraction for Imbalanced Neural Node Classification**
 > *Marco Markwald, Elena Demidova* \
@@ -274,10 +331,10 @@ list organizes recent work by imbalance type and learning strategy.
 > NeurIPS 2022. [[paper](https://openreview.net/forum?id=f_kvHrM4Q0)] [[code](https://github.com/graphprojects/CM-GCL)] \
 > 01 Nov 2022
 
-**Diving into Unified Data-Model Sparsity for Class-Imbalanced Graph Representation Learning**
+**When Sparsity Meets Contrastive Models: Less Graph Data Can Bring Better Class-Balanced Representations**
 > *Chunhui Zhang, Chao Huang, Yijun Tian, Qianlong Wen, Zhongyu Ouyang, Youhuan Li, Yanfang Ye, Chuxu Zhang* \
-> NeurIPS GLFrontiers Workshop 2022. [[paper](https://arxiv.org/abs/2210.00162)]\
-> 1 Oct 2022
+> ICML 2023. [[paper](https://proceedings.mlr.press/v202/zhang23o.html)]\
+> 23 Jul 2023
 
 **ImGCL: Revisiting Graph Contrastive Learning on Imbalanced Node Classification**
 > *Liang Zeng, Lanqing Li, Ziqi Gao, Peilin Zhao, Jian Li* \
@@ -381,9 +438,31 @@ list organizes recent work by imbalance type and learning strategy.
 > NeurIPS 2021. [[paper](https://arxiv.org/abs/2110.04099)] [[code](https://github.com/victorchen96/ReNode)] \
 > 08 Oct 2021
 
+## Edge-level imbalance
+
+**Edge Classification on Graphs: New Directions in Topological Imbalance**
+> *Xueqi Cheng, Yu Wang, Yunchao Liu, Yuying Zhao, Charu C. Aggarwal, Tyler Derr* \
+> arXiv 2024. [[paper](https://arxiv.org/abs/2406.11685)]\
+> 17 Jun 2024
+
 ## Graph-level imbalance
 
 ### Graph classification
+
+**Graph Contrastive Learning with Balanced Hard Negatives and Fine-grained Semantic-aware Positives**
+> *Hongshan Pu, Haoxu Zhang, Ye Liu, Hongmin Cai* \
+> AAAI 2026. [[paper](https://doi.org/10.1609/aaai.v40i29.39674)] [[code](https://github.com/Puhongshan/BalanceGCL)]\
+> 14 Mar 2026
+
+**One for Two: A Unified Framework for Imbalanced Graph Classification via Dynamic Balanced Prototype**
+> *Guanjun Wang, Binwu Wang, Jiaming Ma, Zhengyang Zhou, Pengkun Wang, Xu Wang, Yang Wang* \
+> ICLR 2026 Oral. [[paper](https://openreview.net/forum?id=MraQM41SNS)] [[code](https://github.com/ALWAYS1815/iclr_UniImb)]\
+> 26 Jan 2026
+
+**SamGoG: A Sampling-Based Graph-of-Graphs Framework for Imbalanced Graph Classification**
+> *Shangyou Wang, Zezhong Ding, Xike Xie* \
+> arXiv 2025. [[paper](https://arxiv.org/abs/2507.13741)]\
+> 18 Jul 2025
 
 **Cluster-Guided Contrastive Class-Imbalanced Graph Classification**
 > *Wei Ju, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, Jianhao Shen, Ziyue Qiao, Ming Zhang* \
@@ -422,12 +501,29 @@ list organizes recent work by imbalance type and learning strategy.
 > WWW 2022. [[paper](https://dl.acm.org/doi/10.1145/3485447.3512197)] [[code](https://github.com/shuaiOKshuai/SOLT-GNN)]\
 > 25 Apr 2022
 
+## Federated graph learning
+
+**Towards Federated Long-Tailed Graph Learning: An Energy-Guided Dual Decoupling Approach**
+> *Lianshuai Guo, Zhongzheng Yuan, Xunkai Li, Meixia Qu, Wenyu Wang* \
+> arXiv 2026. [[paper](https://arxiv.org/abs/2606.24237)]\
+> 23 Jun 2026
+
+**GraphFedMIG: Tackling Class Imbalance in Federated Graph Learning via Mutual Information-Guided Generation**
+> *Xinrui Li, Qilin Fan, Tianfu Wang, Kaiwen Wei, Ke Yu, Xu Zhang* \
+> arXiv 2025. [[paper](https://arxiv.org/abs/2508.10471)]\
+> 14 Aug 2025
+
 ## Multimodal learning
 
 **SaVe-TAG: LLM-Based Interpolation for Long-Tailed Text-Attributed Graphs**
 > *Leyao Wang, Yu Wang, Bo Ni, Yuying Zhao, Hanyu Wang, Yao Ma, Tyler Derr* \
 > KDD 2026. [[paper](https://arxiv.org/abs/2410.16882)]\
 > 2026
+
+**LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection**
+> *Tianyi Ma, Yiyue Qian, Zehong Wang, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye* \
+> arXiv 2025. [[paper](https://arxiv.org/abs/2503.01900)]\
+> 28 Feb 2025
 
 **Co-Modality Graph Contrastive Learning for Imbalanced Node Classification**
 > *Yiyue Qian, Chunhui Zhang, Yiming Zhang, Qianlong Wen, Yanfang Ye, Chuxu Zhang* \
