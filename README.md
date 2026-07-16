@@ -4,6 +4,11 @@
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
   <a href="#citation"><img src="https://img.shields.io/badge/Cite-BibTeX-blue.svg" alt="Cite with BibTeX"></a>
+  <a href="https://github.com/yanliang3612/awesome-imbalanced-learning-on-graphs/commits/main"><img src="https://img.shields.io/github/last-commit/yanliang3612/awesome-imbalanced-learning-on-graphs?display_timestamp=committer&label=Last%20update&logo=github" alt="Last update"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yanliang3612/awesome-imbalanced-learning-on-graphs">⭐ Found this list useful? Give it a star—unlike class labels, GitHub stars are welcome to be wildly imbalanced. ⭐</a>
 </p>
 
 > A curated collection of surveys, papers, and code for imbalanced learning on graphs.
