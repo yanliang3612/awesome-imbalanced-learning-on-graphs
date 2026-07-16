@@ -10,6 +10,7 @@
   <a href="#citation">
     <img src="https://img.shields.io/badge/Cite-BibTeX-blue.svg" alt="Cite with BibTeX">
   </a>
+  <img src="https://img.shields.io/badge/Last%20updated-2026--07--16-brightgreen?logo=github" alt="Last updated: 2026-07-16">
 </p>
 
 <p align="center">
@@ -36,8 +37,6 @@
   |
   <a href="#citation">Citation</a>
 </p>
-
-Last updated: 2026-07-16
 
 ---
 
